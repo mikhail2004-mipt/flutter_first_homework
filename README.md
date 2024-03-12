@@ -1,6 +1,6 @@
-#Приложение - новостной агрегатор
+# Приложение - новостной агрегатор
 
-##App Interface
+## App Interface
 
 <p align="center"><img src="screenshots/news.png" alt="News"></p>
 <p align="center"><img src="screenshots/2024_NFL.png" alt="News"></p>
